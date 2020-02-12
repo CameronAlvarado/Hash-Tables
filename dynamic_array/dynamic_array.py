@@ -1,4 +1,4 @@
-class Dynamic Array:  # arrays must be contigious
+class DynamicArray:  # arrays must be contigious
     def __init__(self, capacity=8):
         self.count = 0
         self.capacity = capacity
